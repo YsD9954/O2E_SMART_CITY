@@ -1,0 +1,12 @@
+*
+
+.subckt Sensors
+
+
+C300 +3.3V GND 100n
+C301 +3.3V GND 100n
+U300 __U300
+C303 +3.3V GND 100n
+C302 +3.3V GND 100n
+
+.ends
